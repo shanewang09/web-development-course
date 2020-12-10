@@ -6,7 +6,7 @@ Use
 ```
 browser-sync start --server --directory --files "*"
 ```
-in the terminal to get browser sync running. 
+in the terminal/command prompt/powershell to get browser sync running. 
 
 You can use the [editor on GitHub](https://github.com/shanewang09/web-development-course/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
