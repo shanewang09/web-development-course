@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+[This](https://shanewang09.github.io/web-development-course/) is the webpage where everything resides. Remember to append the folder to the site to access the webpages in the other folders. 
+
 You can use the [editor on GitHub](https://github.com/shanewang09/web-development-course/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
