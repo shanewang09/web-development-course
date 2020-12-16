@@ -1,15 +1,17 @@
 * {
     box-sizing: border-box;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
 }
 
 h1 {
     margin-bottom: 15px;
     text-align: center;
+    font-size: 1.75em;
 }
 
 h2 {
-    margin: 0px 0px 40px 0px;
+    margin: 0px 0px 38px 0px;
     text-align: center;
 }
 
@@ -30,7 +32,7 @@ h2 {
     bottom: 11px;
     padding: 6px;
     float: right;
-    font-size: 20px;
+    font-size: 1.25em;
     border: 1px solid black;
 }
 
